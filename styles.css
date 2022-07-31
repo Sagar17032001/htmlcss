@@ -96,3 +96,15 @@ h3
 .footerdiv{
   padding: 30px;
 }
+
+a {
+  text-decoration: none;
+  margin: 10px 20px;
+  color: #085948;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+a:hover {
+  color: white;
+}
+
